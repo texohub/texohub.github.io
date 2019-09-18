@@ -1,2 +1,2 @@
 # texohub.github.io
-Organizaton web page
+organization Web Page
